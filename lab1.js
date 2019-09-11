@@ -2,7 +2,7 @@
 
 console.log('Lab 1 Assignment');
 
-exports.hello = function Lab1() {
+exports.Lab_1 = function Lab1() {
 
     return 'Lab 1';
 }
